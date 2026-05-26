@@ -76,7 +76,7 @@ These transformations made the dataset more suitable for trend analysis and busi
 
 ![Dashboard Preview](Screenshot%202026-05-26%20162744.png)
 
-![Dashboard Preview](Screenshot%202026-05-26%20162711.png)
+![Dashboard Preview](Screenshot%202026-05-26%20162816.png)
 
 The Power BI dashboard was divided into multiple sections to make the analysis easier to understand.
 
