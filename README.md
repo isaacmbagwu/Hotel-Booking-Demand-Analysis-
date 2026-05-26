@@ -69,6 +69,87 @@ These transformations made the dataset more suitable for trend analysis and busi
 
 ## 📊 Dashboard Overview
 
+The Power BI dashboard was divided into multiple sections to make the analysis easier to understand.
+
+Executive Overview
+
+This section provides a high-level summary of:
+
+ Total bookings,
+
+ Total revenue,
+
+ Average ADR,
+
+Cancellation rate,
+
+booking trends,
+
+and customer distribution.
+
+Cancellation Analysis
+
+Focused on understanding:
+
+cancellation behavior,
+
+risky booking channels,
+
+customer trends,
+
+and the impact of deposit types.
+
+Revenue & Pricing Analysis
+
+This section explored:
+
+ADR trends,
+
+revenue contribution,
+
+pricing behavior,
+
+and hotel performance.
+
+Customer Insights
+
+Focused on:
+
+customer types,
+
+repeated guests,
+
+stay duration,
+
+and geographic customer distribution.
+
+# 📂 Project Files
+
+Due to file size limitations on GitHub, the full project files are hosted on Google Drive.
+
+You can access them here:
+
+# 🔗 **Google Drive Folder:**  
+[View Project Files](https://drive.google.com/drive/folders/1mVbLrLOLXmKopiNS6ui7JVRtAJ5yICQS?usp=sharing)
+
+# 📈 Key Insights
+
+1. Some interesting findings from the analysis include:
+
+2. City Hotels recorded the highest booking volume.
+
+3. City Hotels also experienced higher cancellation rates.
+
+4. Booking demand peaked during high holiday/summer periods.
+
+5. Online travel agencies contributed heavily to both bookings and cancellations.
+
+6. Portugal recorded the highest customer concentration in the dataset.
+
+7. Resort Hotels generally recorded longer guest stays than City Hotels.
+
+# 📷 Dashboard Preview
+Executive Overview Dashboard
 
 ![Dashboard Preview](Screenshot%202026-05-26%20162629.png)
 
@@ -77,79 +158,6 @@ These transformations made the dataset more suitable for trend analysis and busi
 ![Dashboard Preview](Screenshot%202026-05-26%20162744.png)
 
 ![Dashboard Preview](Screenshot%202026-05-26%20162816.png)
-
-The Power BI dashboard was divided into multiple sections to make the analysis easier to understand.
-
-Executive Overview
-
-This section provides a high-level summary of:
-
-total bookings
-
-total revenue
-
-average ADR
-
-cancellation rate
-
-booking trends
-
-and customer distribution.
-
-Cancellation Analysis
-
-Focused on understanding:
-
-cancellation behavior
-
-risky booking channels
-
-customer trends
-
-and the impact of deposit types.
-
-Revenue & Pricing Analysis
-
-This section explored:
-
-ADR trends
-revenue contribution
-
-pricing behavior
-and hotel performance.
-
-Customer Insights
-
-Focused on:
-
-customer types
-
-repeated guests
-
-stay duration
-
-and geographic customer distribution.
-
-# 📈 Key Insights
-
-Some interesting findings from the analysis include:
-
-City Hotels recorded the highest booking volume.
-
-City Hotels also experienced higher cancellation rates.
-
-Booking demand peaked during high holiday/summer periods.
-
-Online travel agencies contributed heavily to both bookings and cancellations.
-
-Portugal recorded the highest customer concentration in the dataset.
-
-Resort Hotels generally recorded longer guest stays than City Hotels.
-
-# 📷 Dashboard Preview
-Executive Overview Dashboard
-
-(Insert dashboard screenshot here)
 
 
 # 🚀 How to Use
