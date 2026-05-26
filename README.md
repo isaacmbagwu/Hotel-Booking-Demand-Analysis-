@@ -72,11 +72,15 @@ These transformations made the dataset more suitable for trend analysis and busi
 
 ![Dashboard Preview](Screenshot%202026-05-26%20162629.png)
 
-![Dashboard Preview](Dashboard%202.png)
+![Dashboard Preview](Screenshot%202026-05-26%20162711.png)
+
+![Dashboard Preview](Screenshot%202026-05-26%20162711.png)
+
+![Dashboard Preview](Screenshot%202026-05-26%20162711.png)
+
 The Power BI dashboard was divided into multiple sections to make the analysis easier to understand.
 
 Executive Overview
-
 
 This section provides a high-level summary of:
 
