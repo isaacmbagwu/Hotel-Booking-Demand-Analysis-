@@ -21,42 +21,53 @@ The analysis was focused on answering business questions such as:
 
 . How does ADR (Average Daily Rate) vary across hotel types?
 
-# 🗂️ Dataset Information
+## 🗂️ Dataset Information
 
 The dataset contains hotel booking records for both Resort Hotels and City Hotels. It includes information related to booking dates, customer types, stay duration, ADR, market segments, cancellations, distribution channels, and guest details.
 
-# 🛠️ Tools Used
+## 🛠️ Tools Used
+
 MySQL for data cleaning and transformation
 SQL for querying and feature engineering
 Power BI for dashboard creation and visualization
 
-# 🧹 Data Cleaning Process
+## 🧹 Data Cleaning Process
 
 The dataset was cleaned in MySQL before being imported into Power BI.
 
 Some of the cleaning steps included:
 
-. handling missing values,
-. checking and removing duplicates,
-. correcting inconsistent data types,
-. creating a unique identifier (booking_id),
-. validating ADR anomalies,
+. handling missing values
+
+. checking and removing duplicates
+
+. correcting inconsistent data types
+
+. creating a unique identifier (booking_id)
+
+. validating ADR anomalies
+
 . preparing the dataset for visualization.
 
-# ⚙️ Feature Engineering
+## ⚙️ Feature Engineering
 
 Additional columns were created to improve the analysis and dashboard experience, including:
 
 . booking_id
+
 . total_guests
+
 . total_nights
+
 . arrival_date
+
 . estimated_revenue
+
 . cancellation_status
 
 These transformations made the dataset more suitable for trend analysis and business reporting.
 
-# 📊 Dashboard Overview
+## 📊 Dashboard Overview
 
 The Power BI dashboard was divided into multiple sections to make the analysis easier to understand.
 
@@ -64,35 +75,50 @@ Executive Overview
 
 This section provides a high-level summary of:
 
-total bookings,
-total revenue,
-average ADR,
-cancellation rate,
-booking trends,
+total bookings
+
+total revenue
+
+average ADR
+
+cancellation rate
+
+booking trends
+
 and customer distribution.
+
 Cancellation Analysis
 
 Focused on understanding:
 
-cancellation behavior,
-risky booking channels,
-customer trends,
+cancellation behavior
+
+risky booking channels
+
+customer trends
+
 and the impact of deposit types.
+
 Revenue & Pricing Analysis
 
 This section explored:
 
-ADR trends,
-revenue contribution,
-pricing behavior,
+ADR trends
+revenue contribution
+
+pricing behavior
 and hotel performance.
+
 Customer Insights
 
 Focused on:
 
-customer types,
-repeated guests,
-stay duration,
+customer types
+
+repeated guests
+
+stay duration
+
 and geographic customer distribution.
 
 # 📈 Key Insights
@@ -100,10 +126,15 @@ and geographic customer distribution.
 Some interesting findings from the analysis include:
 
 City Hotels recorded the highest booking volume.
+
 City Hotels also experienced higher cancellation rates.
+
 Booking demand peaked during high holiday/summer periods.
+
 Online travel agencies contributed heavily to both bookings and cancellations.
+
 Portugal recorded the highest customer concentration in the dataset.
+
 Resort Hotels generally recorded longer guest stays than City Hotels.
 
 # 📷 Dashboard Preview
@@ -114,19 +145,26 @@ Executive Overview Dashboard
 
 # 🚀 How to Use
 Clone the repository
+
 Run the SQL cleaning scripts
+
 Open the Power BI .pbix file
+
 Explore the interactive dashboard
 
 # 📌 What I Learned
 
 This project helped me improve my skills in:
 
-SQL data cleaning,
-data transformation,
-Power BI dashboarding,
-data storytelling,
-and business-focused analysis.
+SQL data cleaning
+
+data transformation
+
+Power BI dashboarding
+
+data storytelling
+
+business-focused analysis.
 
 It also gave me practical experience working on an end-to-end analytics project from raw data to dashboard insights.
 
