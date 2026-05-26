@@ -1,19 +1,24 @@
-## Hotel Booking Demand Analysis | SQL + Power BI
-# 📌 Overview
+# Hotel Booking Demand Analysis | SQL + Power BI
+## 📌 Overview
 
 This project explores hotel booking demand patterns using SQL and Power BI. The main goal was to understand how customer behavior, cancellations, pricing and booking trends affect hotel operations and revenue performance.
 
 I used MySQL for data cleaning and transformation, then built an interactive Power BI dashboard to uncover insights and present the findings visually. The project gave me hands-on experience working through a complete analytics workflow — from raw data to dashboard storytelling.
 
-# 🎯 Project Objectives
+## 🎯 Project Objectives
 
 The analysis was focused on answering business questions such as:
 
 . Which hotel type receives the most bookings?
+
 . What factors contribute to booking cancellations?
+
 . Which customer segments generate the most revenue?
+
 . How do bookings change across months and seasons?
+
 . Which countries contribute the highest number of guests?
+
 . How does ADR (Average Daily Rate) vary across hotel types?
 
 # 🗂️ Dataset Information
