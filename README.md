@@ -194,3 +194,6 @@ Mechatronics Engineering Graduate passionate about Data Analytics, Business Inte
 # ⭐ Acknowledgement
 
 Dataset used: Hotel Booking Demand Dataset (publicly available for educational and analytical purposes).
+
+Capstone project by
+# Jadons' mentorship
